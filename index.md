@@ -1,38 +1,38 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Michael Baudis's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Michael Baudis
+Professor of Bioinformatics
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:m@baud.is">m@baud.is</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/mbaudis">blmoore</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/mbaudis">mbaudis</a>
 </div>
 
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a Professor of Bioinformatics at the [University of Zurich]() and the [Swiss Institute of Bioinformatics **SIB**](). I am a member of the [Global Alliance for Genomics and Health **GA4GH**](http://www.ga4gh.org) and the [ELIXIR]() European bioinformatics resource network.
 
 ## Employment
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`2015`
+__University of Zurich__ Professor of Bioinformatics, Institute of Molecular Life Sciences
+
+`2007-2015`
+__University of Zurich__ Research Group Leader, Institute of Molecular Life Sciences
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`1994-1999`
+__Ruprecht Karls University Heidelberg and German Cancer Research Center DKFZ__ Doctor of Medicine (supervisors: Martin Bentz and Peter Lichter)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
-
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`1992-1998`
+__Ruprecht Karls University Heidelberg__ Student of Medicine
 
 ## Presentations
 
@@ -93,34 +93,21 @@ __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha 
 `2011`
 Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
-## Non-academic
+## Computer skills
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
-## Technical skills
-
+* Perl
 * R
-* Python
-* Javascript (incl. Typescript, Angular)
-* Go
 * HTML and CSS
 * LaTeX
-* Bash
-* Git / Mercurial
-* UNIX
-* Cluster computing
-* Docker
-* AWS
+* Git
 
 ## Areas of expertise
 
 * Bioinformatics
-* Statistics
-* Machine learning
+* Cancer Genomics
+* Personalised Health
+* Data schemas and ontologies
 * Data visualisation
-* Software development
 * NGS and variant calling
 
 ## Projects
